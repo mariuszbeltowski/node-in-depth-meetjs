@@ -1,0 +1,11 @@
+{
+  "name": "node-in-depth-meetjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mariuszbeltowski/node-in-depth-meetjs.git",
+  "author": "Mariusz Beltowski <mariusz.beltek92@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
