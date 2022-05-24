@@ -10,14 +10,14 @@ setTimeout(() => {
   longIteration(0);
 });
 
-setTimeout(() => {
-  console.log("Second timeout");
-});
+// setTimeout(() => {
+//   console.log("Second timeout");
+// });
 
-new Promise(() => {
-  longIteration(1);
-});
+// new Promise(() => {
+//   longIteration(1);
+// });
 
-longIteration(2);
+// longIteration(2);
 
 console.log("End of file");
